@@ -1,0 +1,6 @@
+dossier medical
+    il faut inscrir le patient a chaque fois arrive,
+    il faut cree un dossier medical pour chaque patient (mettre a jour le colone dossier medical dans le table patient),
+    un patien doit avoir ou maximum 1 dossier medical a chaque passage .
+    le patient qui n'a pas encore de dossier medical peut le creer mais ne peut pas le  modifier (car il n'en a pas)
+    le patient deja a  de dossier medical peut le modifier
